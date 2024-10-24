@@ -1,1 +1,1 @@
-Most basic Todo App without CSS.
+Basic Todo App without CSS.
